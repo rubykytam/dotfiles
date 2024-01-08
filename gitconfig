@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pkamkam@gmail.com
+	name = Ruby Tam
